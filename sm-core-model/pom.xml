@@ -96,12 +96,13 @@
 			<version>${commons-fileupload}</version>
 		</dependency>
 
-		<!-- http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations -->
+		<!-- http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-core</artifactId>
 			<version>${jackson-version}</version>
 		</dependency>
+		 -->
 
 		<!-- Jackson JSON Processor -->
 		<dependency>
